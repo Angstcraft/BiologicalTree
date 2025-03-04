@@ -1,6 +1,6 @@
 Hey, this is a little project for my class.
 this is the Tree diagram.
-/**
+
 +-------------------+
 |      Tree         |
 +-------------------+
@@ -10,8 +10,8 @@ this is the Tree diagram.
 | + displayInfo()   |
 +-------------------+
 
-       |
-       V
+       
+       
 
 +-------------------+
 |      Stem         |
@@ -22,8 +22,8 @@ this is the Tree diagram.
 | + getBranches()   |
 +-------------------+
 
-       |
-       V
+       
+       
 
 +-------------------+
 |     Branch        |
@@ -35,8 +35,8 @@ this is the Tree diagram.
 | + getTwigs()      |
 +-------------------+
 
-       |
-       V
+       
+       
 
 +-------------------+
 |     Twig          |
@@ -49,8 +49,8 @@ this is the Tree diagram.
 | + getLeaves()     |
 +-------------------+
 
-       |
-       V
+       
+       
 
 +-------------------+
 |     Leaf          |
@@ -64,4 +64,3 @@ this is the Tree diagram.
 | + getWidth()      |
 +-------------------+
 
-**/
