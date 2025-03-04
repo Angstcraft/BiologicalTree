@@ -1,5 +1,6 @@
 Hey, this is a little project for my class.
 this is the Tree diagram.
+/**
 +-------------------+
 |      Tree         |
 +-------------------+
@@ -62,3 +63,5 @@ this is the Tree diagram.
 | + getHeight()     |
 | + getWidth()      |
 +-------------------+
+
+**/
