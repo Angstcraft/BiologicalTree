@@ -1,0 +1,3 @@
+enum TreeType {
+    BIRCH, OAK
+}
